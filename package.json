@@ -37,7 +37,7 @@
     "typedoc": "^0.15.0",
     "typedoc-plugin-markdown": "~1.1.19",
     "typescript": "3.2.2",
-    "xmlhttprequest-ssl": "1.5.5"
+    "xmlhttprequest-ssl": "1.6.2"
   },
   "author": "Juraj Selep <jurajselep@gmail.com>",
   "license": "ISC",
